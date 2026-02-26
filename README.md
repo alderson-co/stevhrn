@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Slabo+27px&size=22&duration=3000&pause=1000&color=9A5328D4&background=A1691900&center=true&vCenter=true&width=435&lines=I+promised+I%E2%80%99d+keep+you+shitheads+safe;and+that%E2%80%99s+exactly+what+I+plan+on+doing." alt="Typing SVG" </p> 
     
   <p align="center">
-  <img width="400" height="342" src="https://i.pinimg.com/originals/a3/3d/a1/a33da148292183e81b892c5e115f1b72.gif">
+  <img width="400" height="342" src="https://i.pinimg.com/originals/81/ad/ef/81adef4e33b359945e5f11117166b5fc.gif">
     
 <p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/more/cakes.gif">
  <p align="center">      𝐻𝑒𝑎𝑑 𝑡𝑜 𝑚𝑎𝑖𝑛 𝑓𝑜𝑟 𝑚𝑜𝑟𝑒
