@@ -11,7 +11,7 @@
 <img width="100" height="100"src="https://pixelsafari.neocities.org/blinkies/chillinginbed.gif">
 <p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/misc/oil.gif">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-stevhrn&amp;color=5c371e&amp;label=꣑ৎ" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-stevhrn&amp;color=000000&amp;label=꣑ৎ" alt=""></p>
               
 #
 
